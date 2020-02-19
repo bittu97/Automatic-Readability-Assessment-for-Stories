@@ -1,0 +1,15 @@
+Features_Extraction.py - Python code for the extraction of features from text. 
+			 Explanation is given in the code in comments.
+
+SVM_Linear.py - Machine Learning model SVM used for classification in 3 different levels.
+		0 - Elementary Level
+		1 - Intermediate Level
+		2 - Advanced Level
+
+final_predictions.csv - csv file consists of the predicted classes(0,1,2) along with the
+			file name and its features.
+
+output.csv - contains the features of the OneStopEnglishCorpus for all files.
+
+story.csv - contains the features of the stories.
+
